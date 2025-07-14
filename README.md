@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Vaishnavi U S, here!<br>💻 Learning by Building | 🚀 Exploring Tech, One Stack at a Time</h6>
+<h4 align="center">Vaishnavi U S, here!<br>💻 Learning by Building | 🚀 Exploring Tech, One Stack at a Time</h4>
 
 ###
 
